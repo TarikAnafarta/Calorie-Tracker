@@ -1,0 +1,5115 @@
+[
+  {
+    "name": "Protein Bar",
+    "aliases": [
+      "Barebells",
+      "Kirkland Protein Bar",
+      "Protein Bar",
+      "Quest Bar"
+    ],
+    "calories": 200,
+    "fat": 8.0,
+    "carbs": 22.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Banana",
+    "aliases": [
+      "Banana (medium)",
+      "Fruit"
+    ],
+    "calories": 105,
+    "fat": 0.3,
+    "carbs": 27.0,
+    "protein": 1.3
+  },
+  {
+    "name": "Chicken Breast (grilled, 4 oz)",
+    "aliases": [
+      "Chicken",
+      "Chicken Breast",
+      "Grilled Chicken"
+    ],
+    "calories": 165,
+    "fat": 3.6,
+    "carbs": 0.0,
+    "protein": 31.0
+  },
+  {
+    "name": "Chicken Thigh (roasted, 4 oz)",
+    "aliases": [
+      "Chicken Thigh"
+    ],
+    "calories": 209,
+    "fat": 13.0,
+    "carbs": 0.0,
+    "protein": 19.0
+  },
+  {
+    "name": "Turkey Breast (sliced, 4 oz)",
+    "aliases": [
+      "Deli Turkey",
+      "Turkey"
+    ],
+    "calories": 120,
+    "fat": 1.0,
+    "carbs": 0.0,
+    "protein": 26.0
+  },
+  {
+    "name": "Lean Ground Beef (90/10, 4 oz cooked)",
+    "aliases": [
+      "Beef",
+      "Ground Beef"
+    ],
+    "calories": 230,
+    "fat": 13.0,
+    "carbs": 0.0,
+    "protein": 24.0
+  },
+  {
+    "name": "Sirloin Steak (4 oz)",
+    "aliases": [
+      "Beef Sirloin",
+      "Steak"
+    ],
+    "calories": 230,
+    "fat": 13.0,
+    "carbs": 0.0,
+    "protein": 25.0
+  },
+  {
+    "name": "Pork Chop (grilled, 4 oz)",
+    "aliases": [
+      "Pork Chop"
+    ],
+    "calories": 220,
+    "fat": 12.0,
+    "carbs": 0.0,
+    "protein": 24.0
+  },
+  {
+    "name": "Bacon (2 slices)",
+    "aliases": [
+      "Bacon"
+    ],
+    "calories": 84,
+    "fat": 6.0,
+    "carbs": 0.2,
+    "protein": 6.0
+  },
+  {
+    "name": "Ham (deli, 3 oz)",
+    "aliases": [
+      "Deli Ham",
+      "Ham"
+    ],
+    "calories": 90,
+    "fat": 3.0,
+    "carbs": 2.0,
+    "protein": 14.0
+  },
+  {
+    "name": "Salmon (baked, 4 oz)",
+    "aliases": [
+      "Fish",
+      "Salmon"
+    ],
+    "calories": 233,
+    "fat": 14.0,
+    "carbs": 0.0,
+    "protein": 25.0
+  },
+  {
+    "name": "Tuna (canned in water, 1 can drained)",
+    "aliases": [
+      "Canned Tuna",
+      "Tuna"
+    ],
+    "calories": 120,
+    "fat": 2.0,
+    "carbs": 0.0,
+    "protein": 26.0
+  },
+  {
+    "name": "Shrimp (boiled, 4 oz)",
+    "aliases": [
+      "Shrimp"
+    ],
+    "calories": 120,
+    "fat": 2.0,
+    "carbs": 1.0,
+    "protein": 23.0
+  },
+  {
+    "name": "Eggs (2 large)",
+    "aliases": [
+      "Boiled Eggs",
+      "Egg",
+      "Scrambled Eggs"
+    ],
+    "calories": 140,
+    "fat": 9.0,
+    "carbs": 1.0,
+    "protein": 12.0
+  },
+  {
+    "name": "Egg White (3 large)",
+    "aliases": [
+      "Egg Whites"
+    ],
+    "calories": 51,
+    "fat": 0.2,
+    "carbs": 0.7,
+    "protein": 11.0
+  },
+  {
+    "name": "Tofu (firm, 3 oz)",
+    "aliases": [
+      "Tofu"
+    ],
+    "calories": 70,
+    "fat": 4.0,
+    "carbs": 2.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Tempeh (3 oz)",
+    "aliases": [
+      "Tempeh"
+    ],
+    "calories": 170,
+    "fat": 9.0,
+    "carbs": 9.0,
+    "protein": 16.0
+  },
+  {
+    "name": "Black Beans (1/2 cup cooked)",
+    "aliases": [
+      "Beans",
+      "Black Beans"
+    ],
+    "calories": 114,
+    "fat": 0.5,
+    "carbs": 20.0,
+    "protein": 7.5
+  },
+  {
+    "name": "Chickpeas (1/2 cup cooked)",
+    "aliases": [
+      "Chickpeas",
+      "Garbanzo Beans"
+    ],
+    "calories": 135,
+    "fat": 2.1,
+    "carbs": 22.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Lentils (1/2 cup cooked)",
+    "aliases": [
+      "Lentils"
+    ],
+    "calories": 115,
+    "fat": 0.4,
+    "carbs": 20.0,
+    "protein": 9.0
+  },
+  {
+    "name": "Greek Yogurt (plain, 3/4 cup)",
+    "aliases": [
+      "Greek Yogurt",
+      "Yogurt"
+    ],
+    "calories": 100,
+    "fat": 0.0,
+    "carbs": 6.0,
+    "protein": 17.0
+  },
+  {
+    "name": "Cottage Cheese (low-fat, 1/2 cup)",
+    "aliases": [
+      "Cottage Cheese"
+    ],
+    "calories": 90,
+    "fat": 2.0,
+    "carbs": 4.0,
+    "protein": 12.0
+  },
+  {
+    "name": "String Cheese (mozzarella stick)",
+    "aliases": [
+      "Cheese Stick",
+      "Mozzarella Stick"
+    ],
+    "calories": 80,
+    "fat": 6.0,
+    "carbs": 1.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Cheddar Cheese (1 oz)",
+    "aliases": [
+      "Cheddar"
+    ],
+    "calories": 114,
+    "fat": 9.4,
+    "carbs": 0.4,
+    "protein": 7.0
+  },
+  {
+    "name": "Turkey Burger Patty (4 oz cooked)",
+    "aliases": [
+      "Turkey Burger"
+    ],
+    "calories": 170,
+    "fat": 9.0,
+    "carbs": 0.0,
+    "protein": 22.0
+  },
+  {
+    "name": "Beef Burger Patty (4 oz cooked)",
+    "aliases": [
+      "Beef Patty",
+      "Burger Patty"
+    ],
+    "calories": 250,
+    "fat": 17.0,
+    "carbs": 0.0,
+    "protein": 21.0
+  },
+  {
+    "name": "White Rice (1 cup cooked)",
+    "aliases": [
+      "Cooked White Rice",
+      "Rice"
+    ],
+    "calories": 205,
+    "fat": 0.4,
+    "carbs": 45.0,
+    "protein": 4.3
+  },
+  {
+    "name": "Brown Rice (1 cup cooked)",
+    "aliases": [
+      "Cooked Brown Rice",
+      "Rice"
+    ],
+    "calories": 216,
+    "fat": 1.8,
+    "carbs": 45.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Quinoa (1 cup cooked)",
+    "aliases": [
+      "Quinoa"
+    ],
+    "calories": 222,
+    "fat": 3.6,
+    "carbs": 39.0,
+    "protein": 8.1
+  },
+  {
+    "name": "Oatmeal (1 cup cooked)",
+    "aliases": [
+      "Oatmeal",
+      "Oats",
+      "Rolled Oats"
+    ],
+    "calories": 154,
+    "fat": 3.0,
+    "carbs": 27.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Pasta (1 cup cooked)",
+    "aliases": [
+      "Noodles",
+      "Pasta",
+      "Spaghetti"
+    ],
+    "calories": 220,
+    "fat": 1.3,
+    "carbs": 43.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Whole Wheat Bread (2 slices)",
+    "aliases": [
+      "Bread",
+      "Whole Wheat Bread"
+    ],
+    "calories": 140,
+    "fat": 2.0,
+    "carbs": 24.0,
+    "protein": 6.0
+  },
+  {
+    "name": "White Bread (2 slices)",
+    "aliases": [
+      "Bread",
+      "White Bread"
+    ],
+    "calories": 150,
+    "fat": 2.0,
+    "carbs": 28.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Bagel (plain, 1 medium)",
+    "aliases": [
+      "Bagel"
+    ],
+    "calories": 275,
+    "fat": 1.5,
+    "carbs": 55.0,
+    "protein": 11.0
+  },
+  {
+    "name": "Tortilla (flour, 10-inch)",
+    "aliases": [
+      "Flour Tortilla"
+    ],
+    "calories": 220,
+    "fat": 5.0,
+    "carbs": 36.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Tortilla (corn, 2 small)",
+    "aliases": [
+      "Corn Tortilla"
+    ],
+    "calories": 180,
+    "fat": 2.0,
+    "carbs": 36.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Granola (1/2 cup)",
+    "aliases": [
+      "Granola"
+    ],
+    "calories": 200,
+    "fat": 7.0,
+    "carbs": 30.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Cereal (corn flakes, 1 cup)",
+    "aliases": [
+      "Cereal"
+    ],
+    "calories": 100,
+    "fat": 0.2,
+    "carbs": 24.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Cereal (oat squares, 1 cup)",
+    "aliases": [
+      "Cereal"
+    ],
+    "calories": 210,
+    "fat": 3.5,
+    "carbs": 44.0,
+    "protein": 6.0
+  },
+  {
+    "name": "English Muffin",
+    "aliases": [
+      "English Muffin",
+      "Muffin"
+    ],
+    "calories": 132,
+    "fat": 1.0,
+    "carbs": 25.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Croissant",
+    "aliases": [
+      "Croissant"
+    ],
+    "calories": 231,
+    "fat": 12.0,
+    "carbs": 26.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Waffle (1 round)",
+    "aliases": [
+      "Waffle"
+    ],
+    "calories": 218,
+    "fat": 11.0,
+    "carbs": 25.0,
+    "protein": 5.5
+  },
+  {
+    "name": "Pancakes (2 medium)",
+    "aliases": [
+      "Pancakes"
+    ],
+    "calories": 175,
+    "fat": 6.0,
+    "carbs": 28.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Grits (1 cup cooked)",
+    "aliases": [
+      "Grits"
+    ],
+    "calories": 182,
+    "fat": 1.0,
+    "carbs": 38.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Mashed Potatoes (1 cup)",
+    "aliases": [
+      "Mashed Potatoes"
+    ],
+    "calories": 214,
+    "fat": 9.0,
+    "carbs": 31.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Sweet Potato (1 medium)",
+    "aliases": [
+      "Sweet Potato",
+      "Yam"
+    ],
+    "calories": 112,
+    "fat": 0.1,
+    "carbs": 26.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Baked Potato (1 medium)",
+    "aliases": [
+      "Baked Potato",
+      "Potato"
+    ],
+    "calories": 161,
+    "fat": 0.2,
+    "carbs": 37.0,
+    "protein": 4.3
+  },
+  {
+    "name": "French Fries (medium)",
+    "aliases": [
+      "Fries"
+    ],
+    "calories": 365,
+    "fat": 17.0,
+    "carbs": 48.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Apple",
+    "aliases": [
+      "Apple (medium)",
+      "Fruit"
+    ],
+    "calories": 95,
+    "fat": 0.3,
+    "carbs": 25.0,
+    "protein": 0.5
+  },
+  {
+    "name": "Orange",
+    "aliases": [
+      "Fruit",
+      "Orange (medium)"
+    ],
+    "calories": 62,
+    "fat": 0.2,
+    "carbs": 15.4,
+    "protein": 1.2
+  },
+  {
+    "name": "Strawberries (1 cup)",
+    "aliases": [
+      "Strawberries"
+    ],
+    "calories": 49,
+    "fat": 0.5,
+    "carbs": 12.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Blueberries (1 cup)",
+    "aliases": [
+      "Blueberries"
+    ],
+    "calories": 85,
+    "fat": 0.5,
+    "carbs": 21.0,
+    "protein": 1.1
+  },
+  {
+    "name": "Grapes (1 cup)",
+    "aliases": [
+      "Grapes"
+    ],
+    "calories": 104,
+    "fat": 0.2,
+    "carbs": 27.0,
+    "protein": 1.1
+  },
+  {
+    "name": "Pineapple (1 cup)",
+    "aliases": [
+      "Pineapple"
+    ],
+    "calories": 82,
+    "fat": 0.2,
+    "carbs": 22.0,
+    "protein": 0.9
+  },
+  {
+    "name": "Watermelon (1 cup)",
+    "aliases": [
+      "Watermelon"
+    ],
+    "calories": 46,
+    "fat": 0.2,
+    "carbs": 11.0,
+    "protein": 0.9
+  },
+  {
+    "name": "Pear",
+    "aliases": [
+      "Pear (medium)"
+    ],
+    "calories": 101,
+    "fat": 0.3,
+    "carbs": 27.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Peach",
+    "aliases": [
+      "Peach (medium)"
+    ],
+    "calories": 58,
+    "fat": 0.4,
+    "carbs": 14.0,
+    "protein": 1.4
+  },
+  {
+    "name": "Mango (1 cup)",
+    "aliases": [
+      "Mango"
+    ],
+    "calories": 99,
+    "fat": 0.6,
+    "carbs": 25.0,
+    "protein": 1.4
+  },
+  {
+    "name": "Kiwi (2 medium)",
+    "aliases": [
+      "Kiwi"
+    ],
+    "calories": 84,
+    "fat": 0.7,
+    "carbs": 20.0,
+    "protein": 1.5
+  },
+  {
+    "name": "Blackberries (1 cup)",
+    "aliases": [
+      "Blackberries"
+    ],
+    "calories": 62,
+    "fat": 0.7,
+    "carbs": 14.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Raspberries (1 cup)",
+    "aliases": [
+      "Raspberries"
+    ],
+    "calories": 65,
+    "fat": 0.8,
+    "carbs": 15.0,
+    "protein": 1.5
+  },
+  {
+    "name": "Banana (small)",
+    "aliases": [
+      "Banana"
+    ],
+    "calories": 90,
+    "fat": 0.3,
+    "carbs": 23.0,
+    "protein": 1.1
+  },
+  {
+    "name": "Banana (large)",
+    "aliases": [
+      "Banana"
+    ],
+    "calories": 121,
+    "fat": 0.4,
+    "carbs": 31.0,
+    "protein": 1.5
+  },
+  {
+    "name": "Dates (3 medjool)",
+    "aliases": [
+      "Dates"
+    ],
+    "calories": 200,
+    "fat": 0.1,
+    "carbs": 54.0,
+    "protein": 1.8
+  },
+  {
+    "name": "Cantaloupe (1 cup)",
+    "aliases": [
+      "Cantaloupe"
+    ],
+    "calories": 54,
+    "fat": 0.3,
+    "carbs": 13.0,
+    "protein": 1.3
+  },
+  {
+    "name": "Honeydew (1 cup)",
+    "aliases": [
+      "Honeydew"
+    ],
+    "calories": 61,
+    "fat": 0.2,
+    "carbs": 15.5,
+    "protein": 0.9
+  },
+  {
+    "name": "Pomegranate Arils (1/2 cup)",
+    "aliases": [
+      "Pomegranate"
+    ],
+    "calories": 72,
+    "fat": 1.0,
+    "carbs": 16.0,
+    "protein": 1.5
+  },
+  {
+    "name": "Apple Sauce (unsweetened, 1/2 cup)",
+    "aliases": [
+      "Applesauce"
+    ],
+    "calories": 50,
+    "fat": 0.1,
+    "carbs": 13.0,
+    "protein": 0.1
+  },
+  {
+    "name": "Broccoli (1 cup steamed)",
+    "aliases": [
+      "Broccoli"
+    ],
+    "calories": 55,
+    "fat": 0.6,
+    "carbs": 11.0,
+    "protein": 3.7
+  },
+  {
+    "name": "Carrots (1 cup raw)",
+    "aliases": [
+      "Baby Carrots",
+      "Carrots"
+    ],
+    "calories": 50,
+    "fat": 0.3,
+    "carbs": 12.0,
+    "protein": 1.2
+  },
+  {
+    "name": "Spinach (1 cup cooked)",
+    "aliases": [
+      "Spinach"
+    ],
+    "calories": 41,
+    "fat": 0.5,
+    "carbs": 7.0,
+    "protein": 5.3
+  },
+  {
+    "name": "Kale (1 cup chopped)",
+    "aliases": [
+      "Kale"
+    ],
+    "calories": 33,
+    "fat": 0.6,
+    "carbs": 6.0,
+    "protein": 2.9
+  },
+  {
+    "name": "Mixed Greens (2 cups)",
+    "aliases": [
+      "Mixed Greens",
+      "Salad"
+    ],
+    "calories": 16,
+    "fat": 0.3,
+    "carbs": 3.0,
+    "protein": 1.5
+  },
+  {
+    "name": "Lettuce (2 cups)",
+    "aliases": [
+      "Lettuce"
+    ],
+    "calories": 10,
+    "fat": 0.2,
+    "carbs": 2.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Tomato (1 medium)",
+    "aliases": [
+      "Tomato"
+    ],
+    "calories": 22,
+    "fat": 0.2,
+    "carbs": 5.0,
+    "protein": 1.1
+  },
+  {
+    "name": "Cucumber (1/2 large)",
+    "aliases": [
+      "Cucumber"
+    ],
+    "calories": 23,
+    "fat": 0.3,
+    "carbs": 4.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Bell Pepper (1 medium)",
+    "aliases": [
+      "Bell Pepper",
+      "Pepper"
+    ],
+    "calories": 24,
+    "fat": 0.2,
+    "carbs": 6.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Onion (1/2 cup)",
+    "aliases": [
+      "Onion"
+    ],
+    "calories": 32,
+    "fat": 0.1,
+    "carbs": 7.0,
+    "protein": 0.9
+  },
+  {
+    "name": "Mushrooms (1 cup)",
+    "aliases": [
+      "Mushrooms"
+    ],
+    "calories": 15,
+    "fat": 0.2,
+    "carbs": 2.3,
+    "protein": 2.2
+  },
+  {
+    "name": "Asparagus (1 cup)",
+    "aliases": [
+      "Asparagus"
+    ],
+    "calories": 40,
+    "fat": 0.4,
+    "carbs": 7.0,
+    "protein": 4.4
+  },
+  {
+    "name": "Green Beans (1 cup)",
+    "aliases": [
+      "Green Beans"
+    ],
+    "calories": 44,
+    "fat": 0.3,
+    "carbs": 10.0,
+    "protein": 2.4
+  },
+  {
+    "name": "Zucchini (1 cup cooked)",
+    "aliases": [
+      "Zucchini"
+    ],
+    "calories": 28,
+    "fat": 0.4,
+    "carbs": 7.0,
+    "protein": 1.1
+  },
+  {
+    "name": "Cauliflower (1 cup)",
+    "aliases": [
+      "Cauliflower"
+    ],
+    "calories": 27,
+    "fat": 0.3,
+    "carbs": 5.0,
+    "protein": 2.1
+  },
+  {
+    "name": "Brussels Sprouts (1 cup)",
+    "aliases": [
+      "Brussels Sprouts"
+    ],
+    "calories": 56,
+    "fat": 0.8,
+    "carbs": 11.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Corn (1 cup)",
+    "aliases": [
+      "Corn",
+      "Sweet Corn"
+    ],
+    "calories": 143,
+    "fat": 2.2,
+    "carbs": 31.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Peas (1 cup)",
+    "aliases": [
+      "Peas"
+    ],
+    "calories": 134,
+    "fat": 0.4,
+    "carbs": 25.0,
+    "protein": 8.6
+  },
+  {
+    "name": "Beets (1 cup)",
+    "aliases": [
+      "Beets"
+    ],
+    "calories": 75,
+    "fat": 0.3,
+    "carbs": 17.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Coleslaw (1 cup)",
+    "aliases": [
+      "Coleslaw"
+    ],
+    "calories": 190,
+    "fat": 15.0,
+    "carbs": 14.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Pickle (1 spear)",
+    "aliases": [
+      "Pickle"
+    ],
+    "calories": 5,
+    "fat": 0.1,
+    "carbs": 1.0,
+    "protein": 0.2
+  },
+  {
+    "name": "Milk (2%, 1 cup)",
+    "aliases": [
+      "Milk"
+    ],
+    "calories": 122,
+    "fat": 5.0,
+    "carbs": 12.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Milk (whole, 1 cup)",
+    "aliases": [
+      "Whole Milk"
+    ],
+    "calories": 149,
+    "fat": 8.0,
+    "carbs": 12.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Chocolate Milk (1 cup)",
+    "aliases": [
+      "Chocolate Milk"
+    ],
+    "calories": 208,
+    "fat": 8.0,
+    "carbs": 26.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Almond Milk (unsweetened, 1 cup)",
+    "aliases": [
+      "Almond Milk"
+    ],
+    "calories": 30,
+    "fat": 2.5,
+    "carbs": 1.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Oat Milk (unsweetened, 1 cup)",
+    "aliases": [
+      "Oat Milk"
+    ],
+    "calories": 90,
+    "fat": 1.5,
+    "carbs": 16.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Soy Milk (unsweetened, 1 cup)",
+    "aliases": [
+      "Soy Milk"
+    ],
+    "calories": 80,
+    "fat": 4.0,
+    "carbs": 4.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Yogurt (vanilla, 6 oz)",
+    "aliases": [
+      "Yogurt"
+    ],
+    "calories": 150,
+    "fat": 2.0,
+    "carbs": 28.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Ice Cream (vanilla, 1/2 cup)",
+    "aliases": [
+      "Ice Cream"
+    ],
+    "calories": 137,
+    "fat": 7.0,
+    "carbs": 16.0,
+    "protein": 2.3
+  },
+  {
+    "name": "Swiss Cheese (1 oz)",
+    "aliases": [
+      "Swiss"
+    ],
+    "calories": 111,
+    "fat": 8.8,
+    "carbs": 1.5,
+    "protein": 7.6
+  },
+  {
+    "name": "Parmesan (1 oz)",
+    "aliases": [
+      "Parmesan"
+    ],
+    "calories": 111,
+    "fat": 7.3,
+    "carbs": 3.4,
+    "protein": 10.0
+  },
+  {
+    "name": "Cream Cheese (2 tbsp)",
+    "aliases": [
+      "Cream Cheese"
+    ],
+    "calories": 100,
+    "fat": 10.0,
+    "carbs": 1.6,
+    "protein": 1.8
+  },
+  {
+    "name": "Butter (1 tbsp)",
+    "aliases": [
+      "Butter"
+    ],
+    "calories": 102,
+    "fat": 11.5,
+    "carbs": 0.0,
+    "protein": 0.1
+  },
+  {
+    "name": "Almonds (1 oz)",
+    "aliases": [
+      "Almonds",
+      "Nuts"
+    ],
+    "calories": 164,
+    "fat": 14.0,
+    "carbs": 6.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Peanuts (1 oz)",
+    "aliases": [
+      "Nuts",
+      "Peanuts"
+    ],
+    "calories": 161,
+    "fat": 14.0,
+    "carbs": 5.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Cashews (1 oz)",
+    "aliases": [
+      "Cashews",
+      "Nuts"
+    ],
+    "calories": 157,
+    "fat": 12.0,
+    "carbs": 9.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Walnuts (1 oz)",
+    "aliases": [
+      "Walnuts"
+    ],
+    "calories": 185,
+    "fat": 18.0,
+    "carbs": 4.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Pistachios (1 oz)",
+    "aliases": [
+      "Pistachios"
+    ],
+    "calories": 159,
+    "fat": 13.0,
+    "carbs": 8.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Sunflower Seeds (1 oz)",
+    "aliases": [
+      "Sunflower Seeds"
+    ],
+    "calories": 165,
+    "fat": 14.0,
+    "carbs": 6.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Pumpkin Seeds (1 oz)",
+    "aliases": [
+      "Pepitas",
+      "Pumpkin Seeds"
+    ],
+    "calories": 163,
+    "fat": 14.0,
+    "carbs": 4.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Trail Mix (1/3 cup)",
+    "aliases": [
+      "Trail Mix"
+    ],
+    "calories": 173,
+    "fat": 11.0,
+    "carbs": 16.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Nutella (2 tbsp)",
+    "aliases": [
+      "Hazelnut Spread",
+      "Nutella"
+    ],
+    "calories": 200,
+    "fat": 11.0,
+    "carbs": 22.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Peanut Butter (2 tbsp)",
+    "aliases": [
+      "PB",
+      "Peanut Butter"
+    ],
+    "calories": 190,
+    "fat": 16.0,
+    "carbs": 7.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Hamburger Bun",
+    "aliases": [
+      "Bun"
+    ],
+    "calories": 120,
+    "fat": 2.0,
+    "carbs": 21.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Hot Dog Bun",
+    "aliases": [
+      "Bun"
+    ],
+    "calories": 110,
+    "fat": 2.0,
+    "carbs": 20.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Burger (with bun, basic)",
+    "aliases": [
+      "Hamburger"
+    ],
+    "calories": 354,
+    "fat": 17.0,
+    "carbs": 29.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Cheeseburger (with bun)",
+    "aliases": [
+      "Cheeseburger"
+    ],
+    "calories": 450,
+    "fat": 23.0,
+    "carbs": 31.0,
+    "protein": 28.0
+  },
+  {
+    "name": "Chicken Sandwich (grilled)",
+    "aliases": [
+      "Grilled Chicken Sandwich"
+    ],
+    "calories": 370,
+    "fat": 8.0,
+    "carbs": 42.0,
+    "protein": 33.0
+  },
+  {
+    "name": "Turkey Sandwich",
+    "aliases": [
+      "Turkey Sandwich"
+    ],
+    "calories": 320,
+    "fat": 6.0,
+    "carbs": 38.0,
+    "protein": 24.0
+  },
+  {
+    "name": "Ham Sandwich",
+    "aliases": [
+      "Ham Sandwich"
+    ],
+    "calories": 330,
+    "fat": 8.0,
+    "carbs": 36.0,
+    "protein": 20.0
+  },
+  {
+    "name": "BLT Sandwich",
+    "aliases": [
+      "BLT"
+    ],
+    "calories": 380,
+    "fat": 20.0,
+    "carbs": 32.0,
+    "protein": 18.0
+  },
+  {
+    "name": "PB&J Sandwich",
+    "aliases": [
+      "PB&J"
+    ],
+    "calories": 370,
+    "fat": 16.0,
+    "carbs": 45.0,
+    "protein": 13.0
+  },
+  {
+    "name": "Ketchup (1 tbsp)",
+    "aliases": [
+      "Ketchup"
+    ],
+    "calories": 20,
+    "fat": 0.0,
+    "carbs": 5.0,
+    "protein": 0.2
+  },
+  {
+    "name": "Mustard (1 tbsp)",
+    "aliases": [
+      "Mustard"
+    ],
+    "calories": 10,
+    "fat": 0.6,
+    "carbs": 1.0,
+    "protein": 0.5
+  },
+  {
+    "name": "Mayonnaise (1 tbsp)",
+    "aliases": [
+      "Mayo",
+      "Mayonnaise"
+    ],
+    "calories": 94,
+    "fat": 10.0,
+    "carbs": 0.1,
+    "protein": 0.1
+  },
+  {
+    "name": "Ranch Dressing (2 tbsp)",
+    "aliases": [
+      "Ranch"
+    ],
+    "calories": 145,
+    "fat": 15.0,
+    "carbs": 2.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Italian Dressing (2 tbsp)",
+    "aliases": [
+      "Italian Dressing"
+    ],
+    "calories": 90,
+    "fat": 9.0,
+    "carbs": 2.0,
+    "protein": 0.0
+  },
+  {
+    "name": "BBQ Sauce (2 tbsp)",
+    "aliases": [
+      "BBQ",
+      "Barbecue Sauce"
+    ],
+    "calories": 70,
+    "fat": 0.0,
+    "carbs": 18.0,
+    "protein": 0.4
+  },
+  {
+    "name": "Hot Sauce (1 tbsp)",
+    "aliases": [
+      "Hot Sauce"
+    ],
+    "calories": 5,
+    "fat": 0.0,
+    "carbs": 1.0,
+    "protein": 0.1
+  },
+  {
+    "name": "Soy Sauce (1 tbsp)",
+    "aliases": [
+      "Soy Sauce"
+    ],
+    "calories": 10,
+    "fat": 0.0,
+    "carbs": 1.0,
+    "protein": 1.3
+  },
+  {
+    "name": "Salsa (1/4 cup)",
+    "aliases": [
+      "Salsa"
+    ],
+    "calories": 20,
+    "fat": 0.1,
+    "carbs": 4.0,
+    "protein": 0.8
+  },
+  {
+    "name": "Guacamole (2 tbsp)",
+    "aliases": [
+      "Guac",
+      "Guacamole"
+    ],
+    "calories": 50,
+    "fat": 4.5,
+    "carbs": 3.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Hummus (2 tbsp)",
+    "aliases": [
+      "Hummus"
+    ],
+    "calories": 70,
+    "fat": 5.0,
+    "carbs": 4.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Pesto (2 tbsp)",
+    "aliases": [
+      "Pesto"
+    ],
+    "calories": 150,
+    "fat": 15.0,
+    "carbs": 2.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Maple Syrup (2 tbsp)",
+    "aliases": [
+      "Maple Syrup",
+      "Syrup"
+    ],
+    "calories": 104,
+    "fat": 0.0,
+    "carbs": 27.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Honey (1 tbsp)",
+    "aliases": [
+      "Honey"
+    ],
+    "calories": 64,
+    "fat": 0.0,
+    "carbs": 17.0,
+    "protein": 0.1
+  },
+  {
+    "name": "Jam/Jelly (1 tbsp)",
+    "aliases": [
+      "Jam",
+      "Jelly"
+    ],
+    "calories": 56,
+    "fat": 0.0,
+    "carbs": 14.0,
+    "protein": 0.1
+  },
+  {
+    "name": "Peanut Sauce (2 tbsp)",
+    "aliases": [
+      "Peanut Sauce"
+    ],
+    "calories": 160,
+    "fat": 13.0,
+    "carbs": 8.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Potato Chips (1 oz)",
+    "aliases": [
+      "Chips",
+      "Potato Chips"
+    ],
+    "calories": 152,
+    "fat": 10.0,
+    "carbs": 15.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Tortilla Chips (1 oz)",
+    "aliases": [
+      "Chips",
+      "Tortilla Chips"
+    ],
+    "calories": 142,
+    "fat": 7.0,
+    "carbs": 18.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Pretzels (1 oz)",
+    "aliases": [
+      "Pretzels"
+    ],
+    "calories": 108,
+    "fat": 1.0,
+    "carbs": 23.0,
+    "protein": 2.8
+  },
+  {
+    "name": "Popcorn (air-popped, 3 cups)",
+    "aliases": [
+      "Popcorn"
+    ],
+    "calories": 93,
+    "fat": 1.1,
+    "carbs": 18.6,
+    "protein": 3.0
+  },
+  {
+    "name": "Protein Chips (1 bag)",
+    "aliases": [
+      "Protein Chips",
+      "Quest Chips"
+    ],
+    "calories": 140,
+    "fat": 4.5,
+    "carbs": 5.0,
+    "protein": 18.0
+  },
+  {
+    "name": "Granola Bar",
+    "aliases": [
+      "Granola Bar"
+    ],
+    "calories": 190,
+    "fat": 7.0,
+    "carbs": 29.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Rice Cakes (2)",
+    "aliases": [
+      "Rice Cakes"
+    ],
+    "calories": 70,
+    "fat": 0.6,
+    "carbs": 14.0,
+    "protein": 1.4
+  },
+  {
+    "name": "Beef Jerky (1 oz)",
+    "aliases": [
+      "Beef Jerky",
+      "Jerky"
+    ],
+    "calories": 116,
+    "fat": 7.3,
+    "carbs": 3.1,
+    "protein": 9.4
+  },
+  {
+    "name": "Crackers (wheat, 5)",
+    "aliases": [
+      "Crackers"
+    ],
+    "calories": 70,
+    "fat": 2.5,
+    "carbs": 11.0,
+    "protein": 1.5
+  },
+  {
+    "name": "Chocolate (dark, 1 oz)",
+    "aliases": [
+      "Dark Chocolate"
+    ],
+    "calories": 170,
+    "fat": 12.0,
+    "carbs": 13.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Chocolate (milk, 1 oz)",
+    "aliases": [
+      "Chocolate"
+    ],
+    "calories": 152,
+    "fat": 9.0,
+    "carbs": 17.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Fruit Snacks (1 pouch)",
+    "aliases": [
+      "Fruit Snacks"
+    ],
+    "calories": 80,
+    "fat": 0.0,
+    "carbs": 19.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Energy Gel",
+    "aliases": [
+      "Gel"
+    ],
+    "calories": 100,
+    "fat": 0.0,
+    "carbs": 25.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Water (12 oz)",
+    "aliases": [
+      "Water"
+    ],
+    "calories": 0,
+    "fat": 0.0,
+    "carbs": 0.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Coffee (black, 12 oz)",
+    "aliases": [
+      "Coffee"
+    ],
+    "calories": 5,
+    "fat": 0.0,
+    "carbs": 0.0,
+    "protein": 0.5
+  },
+  {
+    "name": "Latte (16 oz)",
+    "aliases": [
+      "Latte"
+    ],
+    "calories": 190,
+    "fat": 7.0,
+    "carbs": 19.0,
+    "protein": 12.0
+  },
+  {
+    "name": "Mocha (16 oz)",
+    "aliases": [
+      "Mocha"
+    ],
+    "calories": 360,
+    "fat": 15.0,
+    "carbs": 45.0,
+    "protein": 14.0
+  },
+  {
+    "name": "Cola (12 oz)",
+    "aliases": [
+      "Coke",
+      "Soda"
+    ],
+    "calories": 140,
+    "fat": 0.0,
+    "carbs": 39.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Diet Cola (12 oz)",
+    "aliases": [
+      "Diet Soda"
+    ],
+    "calories": 0,
+    "fat": 0.0,
+    "carbs": 0.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Sports Drink (12 oz)",
+    "aliases": [
+      "Gatorade",
+      "Powerade"
+    ],
+    "calories": 80,
+    "fat": 0.0,
+    "carbs": 21.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Iced Tea (sweet, 12 oz)",
+    "aliases": [
+      "Sweet Tea"
+    ],
+    "calories": 120,
+    "fat": 0.0,
+    "carbs": 31.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Orange Juice (8 oz)",
+    "aliases": [
+      "OJ",
+      "Orange Juice"
+    ],
+    "calories": 112,
+    "fat": 0.5,
+    "carbs": 26.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Apple Juice (8 oz)",
+    "aliases": [
+      "Apple Juice"
+    ],
+    "calories": 114,
+    "fat": 0.3,
+    "carbs": 28.0,
+    "protein": 0.1
+  },
+  {
+    "name": "Lemonade (12 oz)",
+    "aliases": [
+      "Lemonade"
+    ],
+    "calories": 150,
+    "fat": 0.0,
+    "carbs": 40.0,
+    "protein": 0.2
+  },
+  {
+    "name": "Protein Shake (whey, 1 scoop + water)",
+    "aliases": [
+      "Protein Shake",
+      "Whey Shake"
+    ],
+    "calories": 120,
+    "fat": 1.0,
+    "carbs": 3.0,
+    "protein": 24.0
+  },
+  {
+    "name": "Energy Drink (16 oz)",
+    "aliases": [
+      "Energy Drink"
+    ],
+    "calories": 210,
+    "fat": 0.0,
+    "carbs": 54.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Scrambled Eggs (2)",
+    "aliases": [
+      "Scrambled Eggs"
+    ],
+    "calories": 180,
+    "fat": 14.0,
+    "carbs": 2.0,
+    "protein": 12.0
+  },
+  {
+    "name": "Omelet (3 eggs, cheese)",
+    "aliases": [
+      "Cheese Omelet",
+      "Omelette"
+    ],
+    "calories": 350,
+    "fat": 28.0,
+    "carbs": 3.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Breakfast Burrito",
+    "aliases": [
+      "Breakfast Burrito"
+    ],
+    "calories": 500,
+    "fat": 24.0,
+    "carbs": 50.0,
+    "protein": 22.0
+  },
+  {
+    "name": "Sausage Patty",
+    "aliases": [
+      "Sausage"
+    ],
+    "calories": 200,
+    "fat": 18.0,
+    "carbs": 1.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Yogurt Parfait",
+    "aliases": [
+      "Parfait"
+    ],
+    "calories": 220,
+    "fat": 5.0,
+    "carbs": 35.0,
+    "protein": 10.0
+  },
+  {
+    "name": "Avocado Toast",
+    "aliases": [
+      "Avocado Toast"
+    ],
+    "calories": 300,
+    "fat": 18.0,
+    "carbs": 28.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Bagel with Cream Cheese",
+    "aliases": [
+      "Bagel w/ Cream Cheese"
+    ],
+    "calories": 350,
+    "fat": 14.0,
+    "carbs": 45.0,
+    "protein": 9.0
+  },
+  {
+    "name": "Chicken Caesar Wrap",
+    "aliases": [
+      "Caesar Wrap"
+    ],
+    "calories": 540,
+    "fat": 25.0,
+    "carbs": 48.0,
+    "protein": 35.0
+  },
+  {
+    "name": "Chicken Tenders (3)",
+    "aliases": [
+      "Chicken Tenders"
+    ],
+    "calories": 290,
+    "fat": 16.0,
+    "carbs": 20.0,
+    "protein": 17.0
+  },
+  {
+    "name": "Caesar Salad (with dressing)",
+    "aliases": [
+      "Caesar Salad"
+    ],
+    "calories": 360,
+    "fat": 30.0,
+    "carbs": 12.0,
+    "protein": 10.0
+  },
+  {
+    "name": "Chicken Noodle Soup (1 cup)",
+    "aliases": [
+      "Chicken Soup"
+    ],
+    "calories": 100,
+    "fat": 3.0,
+    "carbs": 12.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Tomato Soup (1 cup)",
+    "aliases": [
+      "Tomato Soup"
+    ],
+    "calories": 90,
+    "fat": 3.0,
+    "carbs": 14.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Clam Chowder (1 cup)",
+    "aliases": [
+      "Clam Chowder"
+    ],
+    "calories": 240,
+    "fat": 14.0,
+    "carbs": 21.0,
+    "protein": 9.0
+  },
+  {
+    "name": "Beef Chili (1 cup)",
+    "aliases": [
+      "Chili"
+    ],
+    "calories": 280,
+    "fat": 12.0,
+    "carbs": 26.0,
+    "protein": 18.0
+  },
+  {
+    "name": "Lentil Soup (1 cup)",
+    "aliases": [
+      "Lentil Soup"
+    ],
+    "calories": 180,
+    "fat": 3.0,
+    "carbs": 30.0,
+    "protein": 12.0
+  },
+  {
+    "name": "Miso Soup (1 cup)",
+    "aliases": [
+      "Miso Soup"
+    ],
+    "calories": 40,
+    "fat": 1.5,
+    "carbs": 5.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Cheese Pizza (1 slice)",
+    "aliases": [
+      "Cheese Pizza",
+      "Pizza"
+    ],
+    "calories": 285,
+    "fat": 10.0,
+    "carbs": 36.0,
+    "protein": 12.0
+  },
+  {
+    "name": "Pepperoni Pizza (1 slice)",
+    "aliases": [
+      "Pepperoni Pizza"
+    ],
+    "calories": 313,
+    "fat": 13.0,
+    "carbs": 36.0,
+    "protein": 13.0
+  },
+  {
+    "name": "Margherita Pizza (1 slice)",
+    "aliases": [
+      "Margherita"
+    ],
+    "calories": 250,
+    "fat": 8.0,
+    "carbs": 33.0,
+    "protein": 10.0
+  },
+  {
+    "name": "Spaghetti with Marinara (1 cup)",
+    "aliases": [
+      "Marinara",
+      "Spaghetti"
+    ],
+    "calories": 220,
+    "fat": 3.0,
+    "carbs": 42.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Spaghetti with Meat Sauce (1 cup)",
+    "aliases": [
+      "Spaghetti Bolognese"
+    ],
+    "calories": 310,
+    "fat": 9.0,
+    "carbs": 42.0,
+    "protein": 16.0
+  },
+  {
+    "name": "Mac and Cheese (1 cup)",
+    "aliases": [
+      "Mac & Cheese"
+    ],
+    "calories": 310,
+    "fat": 12.0,
+    "carbs": 40.0,
+    "protein": 12.0
+  },
+  {
+    "name": "Lasagna (1 square)",
+    "aliases": [
+      "Lasagna"
+    ],
+    "calories": 350,
+    "fat": 19.0,
+    "carbs": 30.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Brownie (2-inch square)",
+    "aliases": [
+      "Brownie"
+    ],
+    "calories": 130,
+    "fat": 6.0,
+    "carbs": 18.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Chocolate Chip Cookie (1)",
+    "aliases": [
+      "Cookie"
+    ],
+    "calories": 150,
+    "fat": 8.0,
+    "carbs": 20.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Ice Cream Sandwich",
+    "aliases": [
+      "Ice Cream Sandwich"
+    ],
+    "calories": 180,
+    "fat": 6.0,
+    "carbs": 28.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Cheesecake (1 slice)",
+    "aliases": [
+      "Cheesecake"
+    ],
+    "calories": 410,
+    "fat": 28.0,
+    "carbs": 32.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Apple Pie (1 slice)",
+    "aliases": [
+      "Apple Pie"
+    ],
+    "calories": 300,
+    "fat": 14.0,
+    "carbs": 42.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Donut (glazed)",
+    "aliases": [
+      "Doughnut"
+    ],
+    "calories": 260,
+    "fat": 14.0,
+    "carbs": 31.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Cupcake (vanilla)",
+    "aliases": [
+      "Cupcake"
+    ],
+    "calories": 220,
+    "fat": 10.0,
+    "carbs": 30.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Protein Ice Cream (1/2 cup)",
+    "aliases": [
+      "Light Ice Cream"
+    ],
+    "calories": 80,
+    "fat": 2.0,
+    "carbs": 9.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Rotisserie Chicken (4 oz)",
+    "aliases": [
+      "Rotisserie Chicken"
+    ],
+    "calories": 200,
+    "fat": 12.0,
+    "carbs": 0.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Turkey Meatballs (4)",
+    "aliases": [
+      "Turkey Meatballs"
+    ],
+    "calories": 220,
+    "fat": 12.0,
+    "carbs": 6.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Meatballs (beef, 4)",
+    "aliases": [
+      "Meatballs"
+    ],
+    "calories": 280,
+    "fat": 17.0,
+    "carbs": 9.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Pork Tenderloin (4 oz)",
+    "aliases": [
+      "Pork Tenderloin"
+    ],
+    "calories": 180,
+    "fat": 6.0,
+    "carbs": 0.0,
+    "protein": 26.0
+  },
+  {
+    "name": "Sausage Link (pork)",
+    "aliases": [
+      "Sausage"
+    ],
+    "calories": 230,
+    "fat": 20.0,
+    "carbs": 1.0,
+    "protein": 10.0
+  },
+  {
+    "name": "Bison Burger Patty (4 oz)",
+    "aliases": [
+      "Bison Patty"
+    ],
+    "calories": 240,
+    "fat": 16.0,
+    "carbs": 0.0,
+    "protein": 22.0
+  },
+  {
+    "name": "Turkey Bacon (2 slices)",
+    "aliases": [
+      "Turkey Bacon"
+    ],
+    "calories": 70,
+    "fat": 4.0,
+    "carbs": 1.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Canadian Bacon (2 slices)",
+    "aliases": [
+      "Canadian Bacon"
+    ],
+    "calories": 60,
+    "fat": 2.0,
+    "carbs": 1.0,
+    "protein": 10.0
+  },
+  {
+    "name": "Tilapia (baked, 4 oz)",
+    "aliases": [
+      "Tilapia"
+    ],
+    "calories": 145,
+    "fat": 3.0,
+    "carbs": 0.0,
+    "protein": 30.0
+  },
+  {
+    "name": "Cod (baked, 4 oz)",
+    "aliases": [
+      "Cod"
+    ],
+    "calories": 119,
+    "fat": 1.0,
+    "carbs": 0.0,
+    "protein": 26.0
+  },
+  {
+    "name": "Sushi Roll (California, 1 roll)",
+    "aliases": [
+      "California Roll",
+      "Sushi"
+    ],
+    "calories": 255,
+    "fat": 7.0,
+    "carbs": 38.0,
+    "protein": 9.0
+  },
+  {
+    "name": "Burrito (chicken, rice, beans)",
+    "aliases": [
+      "Chicken Burrito"
+    ],
+    "calories": 700,
+    "fat": 22.0,
+    "carbs": 90.0,
+    "protein": 40.0
+  },
+  {
+    "name": "Burrito Bowl (chicken)",
+    "aliases": [
+      "Burrito Bowl"
+    ],
+    "calories": 550,
+    "fat": 16.0,
+    "carbs": 60.0,
+    "protein": 40.0
+  },
+  {
+    "name": "Quesadilla (chicken)",
+    "aliases": [
+      "Quesadilla"
+    ],
+    "calories": 520,
+    "fat": 28.0,
+    "carbs": 36.0,
+    "protein": 28.0
+  },
+  {
+    "name": "Nachos (cheese)",
+    "aliases": [
+      "Nachos"
+    ],
+    "calories": 540,
+    "fat": 30.0,
+    "carbs": 54.0,
+    "protein": 14.0
+  },
+  {
+    "name": "Tacos (2, beef)",
+    "aliases": [
+      "Tacos"
+    ],
+    "calories": 400,
+    "fat": 22.0,
+    "carbs": 30.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Falafel (4 pieces)",
+    "aliases": [
+      "Falafel"
+    ],
+    "calories": 220,
+    "fat": 11.0,
+    "carbs": 22.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Gyro (beef/lamb)",
+    "aliases": [
+      "Gyro"
+    ],
+    "calories": 600,
+    "fat": 25.0,
+    "carbs": 55.0,
+    "protein": 35.0
+  },
+  {
+    "name": "Shawarma Wrap (chicken)",
+    "aliases": [
+      "Shawarma"
+    ],
+    "calories": 520,
+    "fat": 20.0,
+    "carbs": 55.0,
+    "protein": 30.0
+  },
+  {
+    "name": "Garden Salad (no dressing)",
+    "aliases": [
+      "Garden Salad"
+    ],
+    "calories": 80,
+    "fat": 2.0,
+    "carbs": 12.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Greek Salad (with feta)",
+    "aliases": [
+      "Greek Salad"
+    ],
+    "calories": 400,
+    "fat": 32.0,
+    "carbs": 16.0,
+    "protein": 12.0
+  },
+  {
+    "name": "Cobb Salad",
+    "aliases": [
+      "Cobb Salad"
+    ],
+    "calories": 650,
+    "fat": 45.0,
+    "carbs": 20.0,
+    "protein": 40.0
+  },
+  {
+    "name": "Taco Salad",
+    "aliases": [
+      "Taco Salad"
+    ],
+    "calories": 700,
+    "fat": 40.0,
+    "carbs": 55.0,
+    "protein": 30.0
+  },
+  {
+    "name": "Chicken Breast (grilled) (6 oz)",
+    "aliases": [
+      "Chicken Breast (grilled)"
+    ],
+    "calories": 247.5,
+    "fat": 5.4,
+    "carbs": 0.0,
+    "protein": 46.5
+  },
+  {
+    "name": "Chicken Breast (grilled) (8 oz)",
+    "aliases": [
+      "Chicken Breast (grilled)"
+    ],
+    "calories": 330.0,
+    "fat": 7.2,
+    "carbs": 0.0,
+    "protein": 62.0
+  },
+  {
+    "name": "White Rice (1/2 cup cooked)",
+    "aliases": [
+      "White Rice"
+    ],
+    "calories": 102.5,
+    "fat": 0.2,
+    "carbs": 22.5,
+    "protein": 2.1
+  },
+  {
+    "name": "White Rice (1.5 cups cooked)",
+    "aliases": [
+      "White Rice"
+    ],
+    "calories": 307.5,
+    "fat": 0.6,
+    "carbs": 67.5,
+    "protein": 6.4
+  },
+  {
+    "name": "White Rice (2 cups cooked)",
+    "aliases": [
+      "White Rice"
+    ],
+    "calories": 410.0,
+    "fat": 0.8,
+    "carbs": 90.0,
+    "protein": 8.6
+  },
+  {
+    "name": "Oatmeal (1/2 cup cooked)",
+    "aliases": [
+      "Oatmeal"
+    ],
+    "calories": 77.0,
+    "fat": 1.5,
+    "carbs": 13.5,
+    "protein": 3.0
+  },
+  {
+    "name": "Oatmeal (2 cups cooked)",
+    "aliases": [
+      "Oatmeal"
+    ],
+    "calories": 308.0,
+    "fat": 6.0,
+    "carbs": 54.0,
+    "protein": 12.0
+  },
+  {
+    "name": "Greek Yogurt (plain) (2/3 cup)",
+    "aliases": [
+      "Greek Yogurt (plain)"
+    ],
+    "calories": 67.0,
+    "fat": 0.0,
+    "carbs": 4.0,
+    "protein": 11.4
+  },
+  {
+    "name": "Greek Yogurt (plain) (1.5 cups)",
+    "aliases": [
+      "Greek Yogurt (plain)"
+    ],
+    "calories": 200.0,
+    "fat": 0.0,
+    "carbs": 12.0,
+    "protein": 34.0
+  },
+  {
+    "name": "Tangerine",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Clementine",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Plum",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Apricot",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Nectarine",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Papaya (1 cup)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 62,
+    "fat": 0.4,
+    "carbs": 16.0,
+    "protein": 0.7
+  },
+  {
+    "name": "Guava (2)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 90,
+    "fat": 1.6,
+    "carbs": 19.0,
+    "protein": 3.5
+  },
+  {
+    "name": "Dragon Fruit (1 cup)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 136,
+    "fat": 0.6,
+    "carbs": 31.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Lychee (10)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 69,
+    "fat": 0.4,
+    "carbs": 17.0,
+    "protein": 0.8
+  },
+  {
+    "name": "Passion Fruit (4)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.7,
+    "carbs": 17.0,
+    "protein": 1.5
+  },
+  {
+    "name": "Cranberries (1 cup)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 46,
+    "fat": 0.1,
+    "carbs": 12.0,
+    "protein": 0.5
+  },
+  {
+    "name": "Cherries (1 cup)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 97,
+    "fat": 0.3,
+    "carbs": 25.0,
+    "protein": 1.6
+  },
+  {
+    "name": "Persimmon",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Starfruit (1)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Grapefruit (1/2)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 52,
+    "fat": 0.2,
+    "carbs": 13.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Lime (1)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Lemon (1)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Plantain (1 medium)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 218,
+    "fat": 0.2,
+    "carbs": 57.0,
+    "protein": 2.3
+  },
+  {
+    "name": "Coconut Meat (1/2 cup)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 283,
+    "fat": 27.0,
+    "carbs": 12.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Fig (2)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Date (2)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 133,
+    "fat": 0.1,
+    "carbs": 36.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Raisins (1/4 cup)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 120,
+    "fat": 0.1,
+    "carbs": 32.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Prunes (1/4 cup)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 104,
+    "fat": 0.2,
+    "carbs": 28.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Pears (1 cup slices)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Apples (1 cup slices)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Pineapple (2 slices)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Blueberries (1/2 cup)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Strawberries (6)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Raspberries (1/2 cup)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Blackberries (1/2 cup)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 70,
+    "fat": 0.3,
+    "carbs": 18.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Mixed Vegetables (1 cup)",
+    "aliases": [
+      "Vegetable"
+    ],
+    "calories": 118,
+    "fat": 4.0,
+    "carbs": 18.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Roasted Vegetables (1 cup)",
+    "aliases": [
+      "Vegetable"
+    ],
+    "calories": 180,
+    "fat": 10.0,
+    "carbs": 20.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Coleslaw (1/2 cup)",
+    "aliases": [
+      "Vegetable"
+    ],
+    "calories": 95,
+    "fat": 7.5,
+    "carbs": 7.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Baked Beans (1/2 cup)",
+    "aliases": [
+      "Vegetable"
+    ],
+    "calories": 190,
+    "fat": 1.0,
+    "carbs": 40.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Refried Beans (1/2 cup)",
+    "aliases": [
+      "Vegetable"
+    ],
+    "calories": 120,
+    "fat": 3.0,
+    "carbs": 18.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Edamame (1 cup)",
+    "aliases": [
+      "Vegetable"
+    ],
+    "calories": 188,
+    "fat": 8.1,
+    "carbs": 14.0,
+    "protein": 18.5
+  },
+  {
+    "name": "Roasted Brussels Sprouts (1 cup)",
+    "aliases": [
+      "Vegetable"
+    ],
+    "calories": 170,
+    "fat": 11.0,
+    "carbs": 16.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Sauteed Green Beans (1 cup)",
+    "aliases": [
+      "Vegetable"
+    ],
+    "calories": 120,
+    "fat": 7.0,
+    "carbs": 12.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Caesar Side Salad",
+    "aliases": [
+      "Vegetable"
+    ],
+    "calories": 180,
+    "fat": 15.0,
+    "carbs": 8.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Garden Side Salad",
+    "aliases": [
+      "Vegetable"
+    ],
+    "calories": 120,
+    "fat": 7.0,
+    "carbs": 12.0,
+    "protein": 3.0
+  },
+  {
+    "name": "White Roll",
+    "aliases": [
+      "Bakery",
+      "Bread"
+    ],
+    "calories": 150,
+    "fat": 3.0,
+    "carbs": 27.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Wheat Roll",
+    "aliases": [
+      "Bakery",
+      "Bread"
+    ],
+    "calories": 160,
+    "fat": 3.0,
+    "carbs": 28.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Garlic Bread (1 slice)",
+    "aliases": [
+      "Bakery",
+      "Bread"
+    ],
+    "calories": 180,
+    "fat": 9.0,
+    "carbs": 22.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Pita (1 round)",
+    "aliases": [
+      "Bakery",
+      "Bread"
+    ],
+    "calories": 170,
+    "fat": 1.0,
+    "carbs": 35.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Naan (1 piece)",
+    "aliases": [
+      "Bakery",
+      "Bread"
+    ],
+    "calories": 260,
+    "fat": 7.0,
+    "carbs": 41.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Tortilla (whole wheat, 10-inch)",
+    "aliases": [
+      "Bakery",
+      "Bread"
+    ],
+    "calories": 200,
+    "fat": 4.5,
+    "carbs": 34.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Sourdough Bread (2 slices)",
+    "aliases": [
+      "Bakery",
+      "Bread"
+    ],
+    "calories": 160,
+    "fat": 1.0,
+    "carbs": 32.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Banana Bread (1 slice)",
+    "aliases": [
+      "Bakery",
+      "Bread"
+    ],
+    "calories": 196,
+    "fat": 6.3,
+    "carbs": 33.0,
+    "protein": 3.1
+  },
+  {
+    "name": "Blueberry Muffin",
+    "aliases": [
+      "Bakery",
+      "Bread"
+    ],
+    "calories": 380,
+    "fat": 17.0,
+    "carbs": 53.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Bagel (everything)",
+    "aliases": [
+      "Bakery",
+      "Bread"
+    ],
+    "calories": 290,
+    "fat": 2.0,
+    "carbs": 58.0,
+    "protein": 11.0
+  },
+  {
+    "name": "Skim Milk (1 cup)",
+    "aliases": [
+      "Beverage",
+      "Drink"
+    ],
+    "calories": 83,
+    "fat": 0.2,
+    "carbs": 12.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Whole Milk (8 oz)",
+    "aliases": [
+      "Beverage",
+      "Drink"
+    ],
+    "calories": 149,
+    "fat": 8.0,
+    "carbs": 12.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Iced Coffee (sweet, 16 oz)",
+    "aliases": [
+      "Beverage",
+      "Drink"
+    ],
+    "calories": 190,
+    "fat": 3.0,
+    "carbs": 36.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Cold Brew (black, 12 oz)",
+    "aliases": [
+      "Beverage",
+      "Drink"
+    ],
+    "calories": 5,
+    "fat": 0.0,
+    "carbs": 0.0,
+    "protein": 0.5
+  },
+  {
+    "name": "Protein Shake (casein, 1 scoop)",
+    "aliases": [
+      "Beverage",
+      "Drink"
+    ],
+    "calories": 120,
+    "fat": 1.0,
+    "carbs": 4.0,
+    "protein": 24.0
+  },
+  {
+    "name": "Chocolate Protein Shake (ready-to-drink)",
+    "aliases": [
+      "Beverage",
+      "Drink"
+    ],
+    "calories": 160,
+    "fat": 3.0,
+    "carbs": 6.0,
+    "protein": 30.0
+  },
+  {
+    "name": "Green Smoothie (12 oz)",
+    "aliases": [
+      "Beverage",
+      "Drink"
+    ],
+    "calories": 180,
+    "fat": 2.0,
+    "carbs": 38.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Milkshake (vanilla, 12 oz)",
+    "aliases": [
+      "Beverage",
+      "Drink"
+    ],
+    "calories": 500,
+    "fat": 22.0,
+    "carbs": 70.0,
+    "protein": 12.0
+  },
+  {
+    "name": "Sparkling Water (12 oz)",
+    "aliases": [
+      "Beverage",
+      "Drink"
+    ],
+    "calories": 0,
+    "fat": 0.0,
+    "carbs": 0.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Kombucha (12 oz)",
+    "aliases": [
+      "Beverage",
+      "Drink"
+    ],
+    "calories": 60,
+    "fat": 0.0,
+    "carbs": 16.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Sour Cream (2 tbsp)",
+    "aliases": [
+      "Sauce",
+      "Spread"
+    ],
+    "calories": 60,
+    "fat": 5.0,
+    "carbs": 1.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Tzatziki (2 tbsp)",
+    "aliases": [
+      "Sauce",
+      "Spread"
+    ],
+    "calories": 30,
+    "fat": 2.0,
+    "carbs": 2.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Buffalo Sauce (2 tbsp)",
+    "aliases": [
+      "Sauce",
+      "Spread"
+    ],
+    "calories": 20,
+    "fat": 1.5,
+    "carbs": 2.0,
+    "protein": 0.2
+  },
+  {
+    "name": "Tahini (1 tbsp)",
+    "aliases": [
+      "Sauce",
+      "Spread"
+    ],
+    "calories": 89,
+    "fat": 8.1,
+    "carbs": 3.2,
+    "protein": 2.6
+  },
+  {
+    "name": "Alfredo Sauce (1/2 cup)",
+    "aliases": [
+      "Sauce",
+      "Spread"
+    ],
+    "calories": 310,
+    "fat": 28.0,
+    "carbs": 10.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Marinara Sauce (1/2 cup)",
+    "aliases": [
+      "Sauce",
+      "Spread"
+    ],
+    "calories": 70,
+    "fat": 2.0,
+    "carbs": 12.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Teriyaki Sauce (2 tbsp)",
+    "aliases": [
+      "Sauce",
+      "Spread"
+    ],
+    "calories": 40,
+    "fat": 0.1,
+    "carbs": 9.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Sriracha (1 tbsp)",
+    "aliases": [
+      "Sauce",
+      "Spread"
+    ],
+    "calories": 15,
+    "fat": 0.1,
+    "carbs": 3.0,
+    "protein": 0.3
+  },
+  {
+    "name": "Balsamic Vinaigrette (2 tbsp)",
+    "aliases": [
+      "Sauce",
+      "Spread"
+    ],
+    "calories": 90,
+    "fat": 8.0,
+    "carbs": 4.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Blue Cheese Dressing (2 tbsp)",
+    "aliases": [
+      "Sauce",
+      "Spread"
+    ],
+    "calories": 150,
+    "fat": 15.0,
+    "carbs": 2.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Protein Bar (chocolate)",
+    "aliases": [
+      "Protein Bar",
+      "Protein Shake"
+    ],
+    "calories": 200,
+    "fat": 7.0,
+    "carbs": 23.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (peanut butter)",
+    "aliases": [
+      "Protein Bar",
+      "Protein Shake"
+    ],
+    "calories": 210,
+    "fat": 8.0,
+    "carbs": 22.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (cookies & cream)",
+    "aliases": [
+      "Protein Bar",
+      "Protein Shake"
+    ],
+    "calories": 200,
+    "fat": 7.0,
+    "carbs": 21.0,
+    "protein": 21.0
+  },
+  {
+    "name": "Protein Bar (caramel)",
+    "aliases": [
+      "Protein Bar",
+      "Protein Shake"
+    ],
+    "calories": 210,
+    "fat": 8.0,
+    "carbs": 23.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Cookie (1)",
+    "aliases": [
+      "Protein Bar",
+      "Protein Shake"
+    ],
+    "calories": 250,
+    "fat": 10.0,
+    "carbs": 30.0,
+    "protein": 16.0
+  },
+  {
+    "name": "Ready-to-Drink Protein Shake (vanilla)",
+    "aliases": [
+      "Protein Bar",
+      "Protein Shake"
+    ],
+    "calories": 160,
+    "fat": 3.0,
+    "carbs": 6.0,
+    "protein": 30.0
+  },
+  {
+    "name": "Ready-to-Drink Protein Shake (chocolate)",
+    "aliases": [
+      "Protein Bar",
+      "Protein Shake"
+    ],
+    "calories": 160,
+    "fat": 3.0,
+    "carbs": 6.0,
+    "protein": 30.0
+  },
+  {
+    "name": "Protein Pudding (1 cup)",
+    "aliases": [
+      "Protein Bar",
+      "Protein Shake"
+    ],
+    "calories": 150,
+    "fat": 3.0,
+    "carbs": 15.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Electrolyte Drink (sugar-free, 16 oz)",
+    "aliases": [
+      "Protein Bar",
+      "Protein Shake"
+    ],
+    "calories": 10,
+    "fat": 0.0,
+    "carbs": 1.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 400,
+    "fat": 22.0,
+    "carbs": 35.0,
+    "protein": 16.0
+  },
+  {
+    "name": "Chicken Alfredo",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 650,
+    "fat": 35.0,
+    "carbs": 50.0,
+    "protein": 35.0
+  },
+  {
+    "name": "Beef Stir-Fry (1 plate)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 550,
+    "fat": 20.0,
+    "carbs": 55.0,
+    "protein": 35.0
+  },
+  {
+    "name": "Chicken Stir-Fry (1 plate)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 480,
+    "fat": 16.0,
+    "carbs": 55.0,
+    "protein": 32.0
+  },
+  {
+    "name": "Fried Rice (1 cup)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 330,
+    "fat": 12.0,
+    "carbs": 45.0,
+    "protein": 8.0
+  },
+  {
+    "name": "General Tso's Chicken (1 cup)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 400,
+    "fat": 16.0,
+    "carbs": 45.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Orange Chicken (1 cup)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 420,
+    "fat": 17.0,
+    "carbs": 47.0,
+    "protein": 22.0
+  },
+  {
+    "name": "Chicken Parmesan (with sauce)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 590,
+    "fat": 24.0,
+    "carbs": 54.0,
+    "protein": 40.0
+  },
+  {
+    "name": "Meatloaf (1 slice)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 320,
+    "fat": 18.0,
+    "carbs": 18.0,
+    "protein": 22.0
+  },
+  {
+    "name": "BBQ Pulled Pork (4 oz)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 290,
+    "fat": 12.0,
+    "carbs": 22.0,
+    "protein": 22.0
+  },
+  {
+    "name": "Avocado Oil (1 tbsp)",
+    "aliases": [
+      "Avocado Oil"
+    ],
+    "calories": 121.8,
+    "fat": 14.0,
+    "carbs": 0.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Cottage Cheese (1 cup)",
+    "aliases": [
+      "Cottage Cheese"
+    ],
+    "calories": 181.1,
+    "fat": 4.9,
+    "carbs": 9.7,
+    "protein": 23.5
+  },
+  {
+    "name": "Chicken Salad Sandwich",
+    "aliases": [
+      "Chicken Salad Sandwich"
+    ],
+    "calories": 532.2,
+    "fat": 26.3,
+    "carbs": 44.1,
+    "protein": 27.2
+  },
+  {
+    "name": "Chicken Nuggets (6)",
+    "aliases": [
+      "Chicken Nuggets"
+    ],
+    "calories": 282.5,
+    "fat": 17.9,
+    "carbs": 17.8,
+    "protein": 12.3
+  },
+  {
+    "name": "Cheddar Cheese (2 oz)",
+    "aliases": [
+      "Cheddar"
+    ],
+    "calories": 228.1,
+    "fat": 18.3,
+    "carbs": 0.8,
+    "protein": 13.8
+  },
+  {
+    "name": "BBQ Chicken (4 oz)",
+    "aliases": [
+      "BBQ Chicken"
+    ],
+    "calories": 221.4,
+    "fat": 5.9,
+    "carbs": 15.0,
+    "protein": 26.2
+  },
+  {
+    "name": "Caramel Popcorn (2 cups)",
+    "aliases": [
+      "Popcorn"
+    ],
+    "calories": 224.5,
+    "fat": 6.1,
+    "carbs": 40.6,
+    "protein": 2.9
+  },
+  {
+    "name": "Guacamole (1/4 cup)",
+    "aliases": [
+      "Guac"
+    ],
+    "calories": 99.3,
+    "fat": 9.3,
+    "carbs": 6.1,
+    "protein": 1.0
+  },
+  {
+    "name": "Brown Rice (1/2 cup)",
+    "aliases": [
+      "Brown Rice"
+    ],
+    "calories": 105.2,
+    "fat": 0.9,
+    "carbs": 22.1,
+    "protein": 2.5
+  },
+  {
+    "name": "White Rice (1/2 cup)",
+    "aliases": [
+      "White Rice"
+    ],
+    "calories": 101.7,
+    "fat": 0.2,
+    "carbs": 21.8,
+    "protein": 2.1
+  },
+  {
+    "name": "Tuna Salad (1/2 cup)",
+    "aliases": [
+      "Tuna Salad"
+    ],
+    "calories": 192.3,
+    "fat": 15.3,
+    "carbs": 3.0,
+    "protein": 12.2
+  },
+  {
+    "name": "Parmesan (2 tbsp grated)",
+    "aliases": [
+      "Parmesan"
+    ],
+    "calories": 42.9,
+    "fat": 2.9,
+    "carbs": 0.9,
+    "protein": 3.9
+  },
+  {
+    "name": "Fish Sticks (4)",
+    "aliases": [
+      "Fish Sticks"
+    ],
+    "calories": 226.1,
+    "fat": 12.3,
+    "carbs": 20.1,
+    "protein": 9.9
+  },
+  {
+    "name": "Cereal (honey oat, 1 cup)",
+    "aliases": [
+      "Cereal"
+    ],
+    "calories": 160.1,
+    "fat": 2.0,
+    "carbs": 34.8,
+    "protein": 3.0
+  },
+  {
+    "name": "Cheddar Crackers (1 oz)",
+    "aliases": [
+      "Crackers"
+    ],
+    "calories": 152.4,
+    "fat": 8.1,
+    "carbs": 17.4,
+    "protein": 3.0
+  },
+  {
+    "name": "Greek Yogurt (vanilla, 3/4 cup)",
+    "aliases": [
+      "Greek Yogurt"
+    ],
+    "calories": 146.3,
+    "fat": 0.0,
+    "carbs": 23.6,
+    "protein": 13.3
+  },
+  {
+    "name": "English Muffin (whole wheat)",
+    "aliases": [
+      "English Muffin"
+    ],
+    "calories": 136.4,
+    "fat": 1.0,
+    "carbs": 26.5,
+    "protein": 5.9
+  },
+  {
+    "name": "Turkey Jerky (1 oz)",
+    "aliases": [
+      "Jerky"
+    ],
+    "calories": 80.3,
+    "fat": 1.0,
+    "carbs": 6.0,
+    "protein": 10.2
+  },
+  {
+    "name": "Whipped Cream (2 tbsp)",
+    "aliases": [
+      "Whipped Cream"
+    ],
+    "calories": 52.1,
+    "fat": 5.5,
+    "carbs": 1.0,
+    "protein": 0.3
+  },
+  {
+    "name": "Olive Oil (1 tbsp)",
+    "aliases": [
+      "Olive Oil"
+    ],
+    "calories": 122.4,
+    "fat": 13.3,
+    "carbs": 0.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Kettle Chips (1 oz)",
+    "aliases": [
+      "Chips"
+    ],
+    "calories": 153.8,
+    "fat": 8.9,
+    "carbs": 16.2,
+    "protein": 2.0
+  },
+  {
+    "name": "Yogurt (strawberry, 6 oz)",
+    "aliases": [
+      "Yogurt"
+    ],
+    "calories": 147.2,
+    "fat": 2.0,
+    "carbs": 27.4,
+    "protein": 5.8
+  },
+  {
+    "name": "Protein Smoothie (16 oz)",
+    "aliases": [
+      "Smoothie"
+    ],
+    "calories": 297.9,
+    "fat": 4.1,
+    "carbs": 46.0,
+    "protein": 21.8
+  },
+  {
+    "name": "Pretzel Sticks (1 oz)",
+    "aliases": [
+      "Pretzels"
+    ],
+    "calories": 110.6,
+    "fat": 0.8,
+    "carbs": 22.5,
+    "protein": 2.7
+  },
+  {
+    "name": "BBQ Potato Chips (1 oz)",
+    "aliases": [
+      "Chips"
+    ],
+    "calories": 149.8,
+    "fat": 9.7,
+    "carbs": 15.3,
+    "protein": 2.0
+  },
+  {
+    "name": "Electrolyte Powder Drink (16 oz)",
+    "aliases": [
+      "Electrolyte Drink"
+    ],
+    "calories": 44.6,
+    "fat": 0.0,
+    "carbs": 11.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Turkey & Cheese Sandwich",
+    "aliases": [
+      "Turkey Sandwich"
+    ],
+    "calories": 411.8,
+    "fat": 11.7,
+    "carbs": 42.2,
+    "protein": 28.1
+  },
+  {
+    "name": "Teriyaki Chicken (4 oz)",
+    "aliases": [
+      "Teriyaki Chicken"
+    ],
+    "calories": 226.5,
+    "fat": 6.0,
+    "carbs": 13.9,
+    "protein": 25.6
+  },
+  {
+    "name": "Ham & Cheese Sandwich",
+    "aliases": [
+      "Ham Sandwich"
+    ],
+    "calories": 435.9,
+    "fat": 17.8,
+    "carbs": 40.0,
+    "protein": 26.8
+  },
+  {
+    "name": "Philly Cheesesteak",
+    "aliases": [
+      "Cheesesteak"
+    ],
+    "calories": 633.1,
+    "fat": 28.8,
+    "carbs": 55.7,
+    "protein": 40.0
+  },
+  {
+    "name": "Chicken Breast (grilled, 3 oz)",
+    "aliases": [
+      "Chicken"
+    ],
+    "calories": 125.3,
+    "fat": 2.7,
+    "carbs": 0.0,
+    "protein": 23.3
+  },
+  {
+    "name": "Peach Cup (in juice)",
+    "aliases": [
+      "Fruit Cup"
+    ],
+    "calories": 88.1,
+    "fat": 0.0,
+    "carbs": 20.6,
+    "protein": 1.0
+  },
+  {
+    "name": "Animal Crackers (1 oz)",
+    "aliases": [
+      "Crackers"
+    ],
+    "calories": 134.7,
+    "fat": 3.9,
+    "carbs": 20.9,
+    "protein": 2.0
+  },
+  {
+    "name": "Corn Dog",
+    "aliases": [
+      "Corn Dog"
+    ],
+    "calories": 323.6,
+    "fat": 18.3,
+    "carbs": 34.0,
+    "protein": 9.2
+  },
+  {
+    "name": "Cheddar Popcorn (2 cups)",
+    "aliases": [
+      "Popcorn"
+    ],
+    "calories": 179.9,
+    "fat": 9.9,
+    "carbs": 16.1,
+    "protein": 4.1
+  },
+  {
+    "name": "Tuna Sandwich",
+    "aliases": [
+      "Tuna Sandwich"
+    ],
+    "calories": 438.7,
+    "fat": 20.1,
+    "carbs": 43.0,
+    "protein": 25.8
+  },
+  {
+    "name": "Butter (2 tsp)",
+    "aliases": [
+      "Butter"
+    ],
+    "calories": 67.2,
+    "fat": 7.7,
+    "carbs": 0.0,
+    "protein": 0.1
+  },
+  {
+    "name": "Cream Cheese (1 tbsp)",
+    "aliases": [
+      "Cream Cheese"
+    ],
+    "calories": 49.1,
+    "fat": 5.1,
+    "carbs": 0.8,
+    "protein": 0.9
+  },
+  {
+    "name": "Chicken Caesar Salad (full)",
+    "aliases": [
+      "Caesar Salad"
+    ],
+    "calories": 574.6,
+    "fat": 36.8,
+    "carbs": 19.7,
+    "protein": 40.6
+  },
+  {
+    "name": "Egg Salad (1/2 cup)",
+    "aliases": [
+      "Egg Salad"
+    ],
+    "calories": 213.7,
+    "fat": 18.6,
+    "carbs": 2.0,
+    "protein": 9.0
+  },
+  {
+    "name": "Bagel (sesame)",
+    "aliases": [
+      "Bagel"
+    ],
+    "calories": 272.6,
+    "fat": 2.5,
+    "carbs": 55.3,
+    "protein": 11.2
+  },
+  {
+    "name": "Pasta (2 cups cooked)",
+    "aliases": [
+      "Pasta"
+    ],
+    "calories": 432.1,
+    "fat": 2.6,
+    "carbs": 87.1,
+    "protein": 16.2
+  },
+  {
+    "name": "Goldfish Crackers (1 oz)",
+    "aliases": [
+      "Crackers"
+    ],
+    "calories": 143.0,
+    "fat": 4.9,
+    "carbs": 19.8,
+    "protein": 3.1
+  },
+  {
+    "name": "Coleslaw (1 cup light)",
+    "aliases": [
+      "Coleslaw"
+    ],
+    "calories": 117.1,
+    "fat": 8.0,
+    "carbs": 12.1,
+    "protein": 2.0
+  },
+  {
+    "name": "Hot Dog",
+    "aliases": [
+      "Hot Dog"
+    ],
+    "calories": 294.5,
+    "fat": 16.4,
+    "carbs": 24.5,
+    "protein": 10.7
+  },
+  {
+    "name": "Yogurt (blueberry, 6 oz)",
+    "aliases": [
+      "Yogurt"
+    ],
+    "calories": 147.5,
+    "fat": 2.0,
+    "carbs": 27.2,
+    "protein": 5.9
+  },
+  {
+    "name": "Pancake Syrup (2 tbsp)",
+    "aliases": [
+      "Syrup"
+    ],
+    "calories": 100.6,
+    "fat": 0.0,
+    "carbs": 26.7,
+    "protein": 0.0
+  },
+  {
+    "name": "Fruit Cup (in juice)",
+    "aliases": [
+      "Fruit Cup"
+    ],
+    "calories": 70.9,
+    "fat": 0.0,
+    "carbs": 17.9,
+    "protein": 0.5
+  },
+  {
+    "name": "Gummy Bears (20)",
+    "aliases": [
+      "Candy"
+    ],
+    "calories": 140.0,
+    "fat": 0.0,
+    "carbs": 31.6,
+    "protein": 3.0
+  },
+  {
+    "name": "Blue Corn Tortilla Chips (1 oz)",
+    "aliases": [
+      "Chips"
+    ],
+    "calories": 144.0,
+    "fat": 6.9,
+    "carbs": 19.4,
+    "protein": 1.9
+  },
+  {
+    "name": "Sweet and Sour Chicken (4 oz)",
+    "aliases": [
+      "Sweet & Sour Chicken"
+    ],
+    "calories": 263.6,
+    "fat": 8.8,
+    "carbs": 26.6,
+    "protein": 17.8
+  },
+  {
+    "name": "Protein Oatmeal (1 packet)",
+    "aliases": [
+      "Oatmeal"
+    ],
+    "calories": 208.1,
+    "fat": 5.0,
+    "carbs": 32.7,
+    "protein": 10.1
+  },
+  {
+    "name": "Pita Chips (1 oz)",
+    "aliases": [
+      "Pita Chips"
+    ],
+    "calories": 127.2,
+    "fat": 4.9,
+    "carbs": 18.5,
+    "protein": 2.0
+  },
+  {
+    "name": "Pasta (whole wheat, 1 cup cooked)",
+    "aliases": [
+      "Pasta"
+    ],
+    "calories": 195.2,
+    "fat": 1.5,
+    "carbs": 40.5,
+    "protein": 8.1
+  },
+  {
+    "name": "Peanut Butter Cups (2)",
+    "aliases": [
+      "Candy"
+    ],
+    "calories": 207.1,
+    "fat": 13.0,
+    "carbs": 23.3,
+    "protein": 4.1
+  },
+  {
+    "name": "Hummus (1/4 cup)",
+    "aliases": [
+      "Hummus"
+    ],
+    "calories": 141.4,
+    "fat": 10.1,
+    "carbs": 9.7,
+    "protein": 3.9
+  },
+  {
+    "name": "Turkey Breast (6 oz)",
+    "aliases": [
+      "Turkey"
+    ],
+    "calories": 185.1,
+    "fat": 1.5,
+    "carbs": 0.0,
+    "protein": 37.8
+  },
+  {
+    "name": "Coconut Oil (1 tbsp)",
+    "aliases": [
+      "Coconut Oil"
+    ],
+    "calories": 116.6,
+    "fat": 14.0,
+    "carbs": 0.0,
+    "protein": 0.0
+  },
+  {
+    "name": "Sports Drink (28 oz)",
+    "aliases": [
+      "Sports Drink"
+    ],
+    "calories": 189.8,
+    "fat": 0.0,
+    "carbs": 52.4,
+    "protein": 0.0
+  },
+  {
+    "name": "Apple (small)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 76.0,
+    "fat": 0.2,
+    "carbs": 20.0,
+    "protein": 0.4
+  },
+  {
+    "name": "Apple (medium)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 95.0,
+    "fat": 0.3,
+    "carbs": 25.0,
+    "protein": 0.5
+  },
+  {
+    "name": "Apple (large)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 123.5,
+    "fat": 0.4,
+    "carbs": 32.5,
+    "protein": 0.7
+  },
+  {
+    "name": "Orange (small)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 49.6,
+    "fat": 0.2,
+    "carbs": 12.3,
+    "protein": 1.0
+  },
+  {
+    "name": "Orange (medium)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 62.0,
+    "fat": 0.2,
+    "carbs": 15.4,
+    "protein": 1.2
+  },
+  {
+    "name": "Orange (large)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 80.6,
+    "fat": 0.3,
+    "carbs": 20.0,
+    "protein": 1.6
+  },
+  {
+    "name": "Banana (medium)",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 105.0,
+    "fat": 0.3,
+    "carbs": 27.0,
+    "protein": 1.3
+  },
+  {
+    "name": "Chicken Breast (grilled) (small)",
+    "aliases": [
+      "Chicken"
+    ],
+    "calories": 132.0,
+    "fat": 2.9,
+    "carbs": 0.0,
+    "protein": 24.8
+  },
+  {
+    "name": "Chicken Breast (grilled) (medium)",
+    "aliases": [
+      "Chicken"
+    ],
+    "calories": 165.0,
+    "fat": 3.6,
+    "carbs": 0.0,
+    "protein": 31.0
+  },
+  {
+    "name": "Chicken Breast (grilled) (large)",
+    "aliases": [
+      "Chicken"
+    ],
+    "calories": 214.5,
+    "fat": 4.7,
+    "carbs": 0.0,
+    "protein": 40.3
+  },
+  {
+    "name": "Greek Yogurt (plain) (small)",
+    "aliases": [
+      "Yogurt"
+    ],
+    "calories": 80.0,
+    "fat": 0.0,
+    "carbs": 4.8,
+    "protein": 13.6
+  },
+  {
+    "name": "Greek Yogurt (plain) (medium)",
+    "aliases": [
+      "Yogurt"
+    ],
+    "calories": 100.0,
+    "fat": 0.0,
+    "carbs": 6.0,
+    "protein": 17.0
+  },
+  {
+    "name": "Greek Yogurt (plain) (large)",
+    "aliases": [
+      "Yogurt"
+    ],
+    "calories": 130.0,
+    "fat": 0.0,
+    "carbs": 7.8,
+    "protein": 22.1
+  },
+  {
+    "name": "Oatmeal (small)",
+    "aliases": [
+      "Oatmeal"
+    ],
+    "calories": 123.2,
+    "fat": 2.4,
+    "carbs": 21.6,
+    "protein": 4.8
+  },
+  {
+    "name": "Oatmeal (medium)",
+    "aliases": [
+      "Oatmeal"
+    ],
+    "calories": 154.0,
+    "fat": 3.0,
+    "carbs": 27.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Oatmeal (large)",
+    "aliases": [
+      "Oatmeal"
+    ],
+    "calories": 200.2,
+    "fat": 3.9,
+    "carbs": 35.1,
+    "protein": 7.8
+  },
+  {
+    "name": "White Rice (small)",
+    "aliases": [
+      "Rice"
+    ],
+    "calories": 164.0,
+    "fat": 0.3,
+    "carbs": 36.0,
+    "protein": 3.4
+  },
+  {
+    "name": "White Rice (medium)",
+    "aliases": [
+      "Rice"
+    ],
+    "calories": 205.0,
+    "fat": 0.4,
+    "carbs": 45.0,
+    "protein": 4.3
+  },
+  {
+    "name": "White Rice (large)",
+    "aliases": [
+      "Rice"
+    ],
+    "calories": 266.5,
+    "fat": 0.5,
+    "carbs": 58.5,
+    "protein": 5.6
+  },
+  {
+    "name": "Brown Rice (small)",
+    "aliases": [
+      "Rice"
+    ],
+    "calories": 172.8,
+    "fat": 1.4,
+    "carbs": 36.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Brown Rice (medium)",
+    "aliases": [
+      "Rice"
+    ],
+    "calories": 216.0,
+    "fat": 1.8,
+    "carbs": 45.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Brown Rice (large)",
+    "aliases": [
+      "Rice"
+    ],
+    "calories": 280.8,
+    "fat": 2.3,
+    "carbs": 58.5,
+    "protein": 6.5
+  },
+  {
+    "name": "Pasta (small)",
+    "aliases": [
+      "Pasta"
+    ],
+    "calories": 176.0,
+    "fat": 1.0,
+    "carbs": 34.4,
+    "protein": 6.4
+  },
+  {
+    "name": "Pasta (medium)",
+    "aliases": [
+      "Pasta"
+    ],
+    "calories": 220.0,
+    "fat": 1.3,
+    "carbs": 43.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Pasta (large)",
+    "aliases": [
+      "Pasta"
+    ],
+    "calories": 286.0,
+    "fat": 1.7,
+    "carbs": 55.9,
+    "protein": 10.4
+  },
+  {
+    "name": "Milk (2%) (small)",
+    "aliases": [
+      "Milk"
+    ],
+    "calories": 97.6,
+    "fat": 4.0,
+    "carbs": 9.6,
+    "protein": 6.4
+  },
+  {
+    "name": "Milk (2%) (medium)",
+    "aliases": [
+      "Milk"
+    ],
+    "calories": 122.0,
+    "fat": 5.0,
+    "carbs": 12.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Milk (2%) (large)",
+    "aliases": [
+      "Milk"
+    ],
+    "calories": 158.6,
+    "fat": 6.5,
+    "carbs": 15.6,
+    "protein": 10.4
+  },
+  {
+    "name": "Cereal (bran flakes, 1 cup)",
+    "aliases": [
+      "Cereal"
+    ],
+    "calories": 120,
+    "fat": 1.0,
+    "carbs": 28.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Cereal (frosted flakes, 1 cup)",
+    "aliases": [
+      "Cereal"
+    ],
+    "calories": 147,
+    "fat": 0.2,
+    "carbs": 36.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Cereal (rice crisp, 1 cup)",
+    "aliases": [
+      "Cereal"
+    ],
+    "calories": 130,
+    "fat": 0.3,
+    "carbs": 28.0,
+    "protein": 2.0
+  },
+  {
+    "name": "Cereal (granola w/ nuts, 1/2 cup)",
+    "aliases": [
+      "Cereal"
+    ],
+    "calories": 240,
+    "fat": 9.0,
+    "carbs": 32.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Cereal (muesli, 3/4 cup)",
+    "aliases": [
+      "Cereal"
+    ],
+    "calories": 190,
+    "fat": 4.0,
+    "carbs": 34.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Rye Bread (2 slices)",
+    "aliases": [
+      "Bread"
+    ],
+    "calories": 160,
+    "fat": 2.0,
+    "carbs": 30.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Pumpernickel Bread (2 slices)",
+    "aliases": [
+      "Bread"
+    ],
+    "calories": 170,
+    "fat": 1.5,
+    "carbs": 34.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Multigrain Bread (2 slices)",
+    "aliases": [
+      "Bread"
+    ],
+    "calories": 180,
+    "fat": 3.0,
+    "carbs": 32.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Cinnamon Raisin Bread (2 slices)",
+    "aliases": [
+      "Bread"
+    ],
+    "calories": 200,
+    "fat": 2.0,
+    "carbs": 42.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Gluten-Free Bread (2 slices)",
+    "aliases": [
+      "Bread"
+    ],
+    "calories": 180,
+    "fat": 3.0,
+    "carbs": 36.0,
+    "protein": 4.0
+  },
+  {
+    "name": "Apple (slices (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 57,
+    "fat": 0.2,
+    "carbs": 15.0,
+    "protein": 0.3
+  },
+  {
+    "name": "Apple (diced (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 57,
+    "fat": 0.2,
+    "carbs": 15.0,
+    "protein": 0.3
+  },
+  {
+    "name": "Orange (slices (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 85,
+    "fat": 0.2,
+    "carbs": 21.0,
+    "protein": 1.7
+  },
+  {
+    "name": "Orange (diced (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 85,
+    "fat": 0.2,
+    "carbs": 21.0,
+    "protein": 1.7
+  },
+  {
+    "name": "Pear (slices (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 100,
+    "fat": 0.2,
+    "carbs": 27.0,
+    "protein": 0.7
+  },
+  {
+    "name": "Pear (diced (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 100,
+    "fat": 0.2,
+    "carbs": 27.0,
+    "protein": 0.7
+  },
+  {
+    "name": "Peach (slices (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 65,
+    "fat": 0.4,
+    "carbs": 16.0,
+    "protein": 1.5
+  },
+  {
+    "name": "Peach (diced (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 65,
+    "fat": 0.4,
+    "carbs": 16.0,
+    "protein": 1.5
+  },
+  {
+    "name": "Grapes (slices (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 104,
+    "fat": 0.2,
+    "carbs": 27.0,
+    "protein": 1.1
+  },
+  {
+    "name": "Grapes (diced (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 104,
+    "fat": 0.2,
+    "carbs": 27.0,
+    "protein": 1.1
+  },
+  {
+    "name": "Blueberries (slices (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 85,
+    "fat": 0.5,
+    "carbs": 21.0,
+    "protein": 1.1
+  },
+  {
+    "name": "Blueberries (diced (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 85,
+    "fat": 0.5,
+    "carbs": 21.0,
+    "protein": 1.1
+  },
+  {
+    "name": "Strawberries (slices (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 49,
+    "fat": 0.5,
+    "carbs": 12.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Strawberries (diced (1 cup))",
+    "aliases": [
+      "Fruit"
+    ],
+    "calories": 49,
+    "fat": 0.5,
+    "carbs": 12.0,
+    "protein": 1.0
+  },
+  {
+    "name": "Americano (12 oz)",
+    "aliases": [
+      "Cafe",
+      "Coffee"
+    ],
+    "calories": 10,
+    "fat": 0.0,
+    "carbs": 1.0,
+    "protein": 0.5
+  },
+  {
+    "name": "Cappuccino (12 oz)",
+    "aliases": [
+      "Cafe",
+      "Coffee"
+    ],
+    "calories": 120,
+    "fat": 5.0,
+    "carbs": 12.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Flat White (12 oz)",
+    "aliases": [
+      "Cafe",
+      "Coffee"
+    ],
+    "calories": 170,
+    "fat": 9.0,
+    "carbs": 13.0,
+    "protein": 9.0
+  },
+  {
+    "name": "Chai Latte (12 oz)",
+    "aliases": [
+      "Cafe",
+      "Coffee"
+    ],
+    "calories": 200,
+    "fat": 5.0,
+    "carbs": 33.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Matcha Latte (12 oz)",
+    "aliases": [
+      "Cafe",
+      "Coffee"
+    ],
+    "calories": 190,
+    "fat": 7.0,
+    "carbs": 25.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Sushi Roll (spicy tuna, 1 roll)",
+    "aliases": [
+      "Sushi"
+    ],
+    "calories": 290,
+    "fat": 8.0,
+    "carbs": 38.0,
+    "protein": 14.0
+  },
+  {
+    "name": "Sushi Roll (salmon avocado, 1 roll)",
+    "aliases": [
+      "Sushi"
+    ],
+    "calories": 300,
+    "fat": 9.0,
+    "carbs": 37.0,
+    "protein": 13.0
+  },
+  {
+    "name": "Sushi Roll (veggie, 1 roll)",
+    "aliases": [
+      "Sushi"
+    ],
+    "calories": 230,
+    "fat": 5.0,
+    "carbs": 43.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Sashimi (salmon, 6 pieces)",
+    "aliases": [
+      "Sushi"
+    ],
+    "calories": 240,
+    "fat": 10.0,
+    "carbs": 0.0,
+    "protein": 34.0
+  },
+  {
+    "name": "Chocolate Croissant",
+    "aliases": [
+      "Pastry"
+    ],
+    "calories": 300,
+    "fat": 17.0,
+    "carbs": 33.0,
+    "protein": 5.0
+  },
+  {
+    "name": "Cinnamon Roll",
+    "aliases": [
+      "Pastry"
+    ],
+    "calories": 420,
+    "fat": 18.0,
+    "carbs": 60.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Apple Fritter",
+    "aliases": [
+      "Pastry"
+    ],
+    "calories": 410,
+    "fat": 21.0,
+    "carbs": 50.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Blueberry Scone",
+    "aliases": [
+      "Pastry"
+    ],
+    "calories": 380,
+    "fat": 16.0,
+    "carbs": 54.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Macaron (2)",
+    "aliases": [
+      "Pastry"
+    ],
+    "calories": 140,
+    "fat": 6.0,
+    "carbs": 18.0,
+    "protein": 3.0
+  },
+  {
+    "name": "Kidney Beans (1/2 cup)",
+    "aliases": [
+      "Grains",
+      "Legumes"
+    ],
+    "calories": 110,
+    "fat": 0.5,
+    "carbs": 20.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Pinto Beans (1/2 cup)",
+    "aliases": [
+      "Grains",
+      "Legumes"
+    ],
+    "calories": 120,
+    "fat": 0.6,
+    "carbs": 22.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Navy Beans (1/2 cup)",
+    "aliases": [
+      "Grains",
+      "Legumes"
+    ],
+    "calories": 130,
+    "fat": 0.6,
+    "carbs": 24.0,
+    "protein": 8.0
+  },
+  {
+    "name": "Great Northern Beans (1/2 cup)",
+    "aliases": [
+      "Grains",
+      "Legumes"
+    ],
+    "calories": 120,
+    "fat": 0.5,
+    "carbs": 22.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Black-Eyed Peas (1/2 cup)",
+    "aliases": [
+      "Grains",
+      "Legumes"
+    ],
+    "calories": 100,
+    "fat": 0.4,
+    "carbs": 18.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Farro (1 cup cooked)",
+    "aliases": [
+      "Grains",
+      "Legumes"
+    ],
+    "calories": 200,
+    "fat": 2.0,
+    "carbs": 40.0,
+    "protein": 7.0
+  },
+  {
+    "name": "Barley (1 cup cooked)",
+    "aliases": [
+      "Grains",
+      "Legumes"
+    ],
+    "calories": 193,
+    "fat": 0.7,
+    "carbs": 44.0,
+    "protein": 3.6
+  },
+  {
+    "name": "Bulgur (1 cup cooked)",
+    "aliases": [
+      "Grains",
+      "Legumes"
+    ],
+    "calories": 151,
+    "fat": 0.4,
+    "carbs": 34.0,
+    "protein": 5.6
+  },
+  {
+    "name": "Couscous (1 cup cooked)",
+    "aliases": [
+      "Grains",
+      "Legumes"
+    ],
+    "calories": 176,
+    "fat": 0.3,
+    "carbs": 36.0,
+    "protein": 6.0
+  },
+  {
+    "name": "Wild Rice (1 cup cooked)",
+    "aliases": [
+      "Grains",
+      "Legumes"
+    ],
+    "calories": 166,
+    "fat": 0.6,
+    "carbs": 35.0,
+    "protein": 6.5
+  },
+  {
+    "name": "Turkey Club Sandwich",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 540,
+    "fat": 26.0,
+    "carbs": 44.0,
+    "protein": 34.0
+  },
+  {
+    "name": "Chicken Fajitas (2 tortillas)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 620,
+    "fat": 22.0,
+    "carbs": 62.0,
+    "protein": 42.0
+  },
+  {
+    "name": "Beef Tacos (3)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 610,
+    "fat": 32.0,
+    "carbs": 48.0,
+    "protein": 34.0
+  },
+  {
+    "name": "Poke Bowl (salmon)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 520,
+    "fat": 14.0,
+    "carbs": 60.0,
+    "protein": 35.0
+  },
+  {
+    "name": "Veggie Stir-Fry (tofu)",
+    "aliases": [
+      "Entree"
+    ],
+    "calories": 450,
+    "fat": 16.0,
+    "carbs": 58.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 154)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 220,
+    "fat": 8.0,
+    "carbs": 22.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 155)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 200,
+    "fat": 9.0,
+    "carbs": 23.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 156)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 205,
+    "fat": 7.0,
+    "carbs": 24.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 157)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 210,
+    "fat": 8.0,
+    "carbs": 25.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 158)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 215,
+    "fat": 9.0,
+    "carbs": 26.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 159)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 220,
+    "fat": 7.0,
+    "carbs": 27.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 160)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 200,
+    "fat": 8.0,
+    "carbs": 28.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 161)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 205,
+    "fat": 9.0,
+    "carbs": 22.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 162)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 210,
+    "fat": 7.0,
+    "carbs": 23.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 163)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 215,
+    "fat": 8.0,
+    "carbs": 24.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 164)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 220,
+    "fat": 9.0,
+    "carbs": 25.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 165)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 200,
+    "fat": 7.0,
+    "carbs": 26.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 166)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 205,
+    "fat": 8.0,
+    "carbs": 27.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 167)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 210,
+    "fat": 9.0,
+    "carbs": 28.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 168)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 215,
+    "fat": 7.0,
+    "carbs": 22.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 169)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 220,
+    "fat": 8.0,
+    "carbs": 23.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 170)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 200,
+    "fat": 9.0,
+    "carbs": 24.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 171)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 205,
+    "fat": 7.0,
+    "carbs": 25.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 172)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 210,
+    "fat": 8.0,
+    "carbs": 26.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 173)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 215,
+    "fat": 9.0,
+    "carbs": 27.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 174)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 220,
+    "fat": 7.0,
+    "carbs": 28.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 175)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 200,
+    "fat": 8.0,
+    "carbs": 22.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 176)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 205,
+    "fat": 9.0,
+    "carbs": 23.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 177)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 210,
+    "fat": 7.0,
+    "carbs": 24.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 178)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 215,
+    "fat": 8.0,
+    "carbs": 25.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 179)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 220,
+    "fat": 9.0,
+    "carbs": 26.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 180)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 200,
+    "fat": 7.0,
+    "carbs": 27.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 181)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 205,
+    "fat": 8.0,
+    "carbs": 28.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 182)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 210,
+    "fat": 9.0,
+    "carbs": 22.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 183)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 215,
+    "fat": 7.0,
+    "carbs": 23.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 184)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 220,
+    "fat": 8.0,
+    "carbs": 24.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 185)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 200,
+    "fat": 9.0,
+    "carbs": 25.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 186)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 205,
+    "fat": 7.0,
+    "carbs": 26.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 187)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 210,
+    "fat": 8.0,
+    "carbs": 27.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 188)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 215,
+    "fat": 9.0,
+    "carbs": 28.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 189)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 220,
+    "fat": 7.0,
+    "carbs": 22.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 190)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 200,
+    "fat": 8.0,
+    "carbs": 23.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 191)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 205,
+    "fat": 9.0,
+    "carbs": 24.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 192)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 210,
+    "fat": 7.0,
+    "carbs": 25.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 193)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 215,
+    "fat": 8.0,
+    "carbs": 26.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 194)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 220,
+    "fat": 9.0,
+    "carbs": 27.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 195)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 200,
+    "fat": 7.0,
+    "carbs": 28.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 196)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 205,
+    "fat": 8.0,
+    "carbs": 22.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 197)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 210,
+    "fat": 9.0,
+    "carbs": 23.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 198)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 215,
+    "fat": 7.0,
+    "carbs": 24.0,
+    "protein": 20.0
+  },
+  {
+    "name": "Protein Bar (variant 199)",
+    "aliases": [
+      "Protein Bar"
+    ],
+    "calories": 220,
+    "fat": 8.0,
+    "carbs": 25.0,
+    "protein": 20.0
+  }
+]
